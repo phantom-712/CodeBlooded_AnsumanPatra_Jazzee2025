@@ -60,4 +60,8 @@ We are a passionate team of 3 members who collaborated to bring this idea to lif
 
 ## 🖼 Sample Screenshot
 
-![AgroTalk UI](a6a287ce-b9d1-4c17-88ab-fecfa03b93e0.png)
+![AgroTalk UI]
+
+
+![image](https://github.com/user-attachments/assets/77316975-e9d8-43f7-85f2-952554bb5e7f)
+
